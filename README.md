@@ -43,6 +43,7 @@ classDiagram
     public Browser browser;
     public Phone phone;
     public Player player;
+    public static void main(String[] args)
   }
 
   SmartPhone --> Browser
